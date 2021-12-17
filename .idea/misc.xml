@@ -10,9 +10,10 @@
         <entry key="..\:/Users/distu/AndroidStudioProjects/MovieAppNew/app/src/main/res/layout/fragment_movie.xml" value="0.264" />
         <entry key="..\:/Users/distu/AndroidStudioProjects/MovieAppNew/app/src/main/res/layout/fragment_movie_detail.xml" value="0.264" />
         <entry key="..\:/Users/distu/AndroidStudioProjects/MovieAppNew/app/src/main/res/layout/movie_item.xml" value="0.264" />
-        <entry key="..\:/Users/distu/AndroidStudioProjects/MovieAppNew/app/src/main/res/layout/popular_movies_row.xml" value="0.12158054711246201" />
+        <entry key="..\:/Users/distu/AndroidStudioProjects/MovieAppNew/app/src/main/res/layout/popular_movies_row.xml" value="0.2" />
         <entry key="..\:/Users/distu/AndroidStudioProjects/MovieAppNew/app/src/main/res/layout/top_rated_movies_row.xml" value="0.264" />
         <entry key="..\:/Users/distu/AndroidStudioProjects/MovieAppNew/app/src/main/res/layout/upcoming_movie_row.xml" value="0.264" />
+        <entry key="..\:/Users/distu/AndroidStudioProjects/MovieAppNew/app/src/main/res/layout/upcoming_movies_row.xml" value="0.20833333333333334" />
         <entry key="..\:/Users/distu/AndroidStudioProjects/MovieAppNew/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.14322916666666666" />
       </map>
     </option>
